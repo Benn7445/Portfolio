@@ -51,8 +51,8 @@ const EmailSection = () => {
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
 
-          I'm currently open to new opportunities and my inbox is ready to receive your messages.
-          Whether you have inquiries or simply want to drop a friendly "hello," I'll do my utmost to respond promptly!
+          I&apos;m currently open to new opportunities and my inbox is ready to receive your messages.
+          Whether you have inquiries or simply want to drop a friendly &quot;hello,&quot; I&apos;ll do my utmost to respond promptly!
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/Benn7445" target="_blank">
